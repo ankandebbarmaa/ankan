@@ -1,0 +1,7 @@
+{
+  "name": "Founder Portfolio",
+  "description": "An extremely minimal, clean, founder-style personal portfolio website inspired by minimalist builders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
