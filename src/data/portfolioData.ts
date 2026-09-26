@@ -179,19 +179,19 @@ export const initialSocials: SocialLink[] = [
   {
     platform: 'github',
     label: 'GitHub',
-    href: 'https://github.com/ankandebbarma',
-    handle: '@ankandebbarma'
+    href: 'https://github.com/ankandebbarmaa',
+    handle: '@ankandebbarmaa'
   },
   {
     platform: 'x',
     label: 'X / Twitter',
-    href: 'https://x.com/ankandebbarma',
-    handle: '@ankandebbarma'
+    href: 'https://x.com/ankandebbarmaa',
+    handle: '@ankandebbarmaa'
   },
   {
     platform: 'linkedin',
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/ankan-debbarma',
-    handle: 'in/ankan-debbarma'
+    href: 'https://www.linkedin.com/in/ankandebbarma/',
+    handle: 'in/ankandebbarma'
   }
 ];

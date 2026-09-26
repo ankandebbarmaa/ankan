@@ -12,9 +12,9 @@ Personal portfolio for Ankan Debbarma, built with React, TypeScript, Vite, and T
    `npm run dev`
 3. Open `http://localhost:3000` in your browser.
 
-## Contact Form
+## Contact
 
-The contact and newsletter forms use Web3Forms. Copy `.env.example` to `.env` and add a `WEB3FORMS_ACCESS_KEY` if you want submissions delivered to your inbox. Without a key, the app still runs and reports that delivery is not configured.
+Visitors can contact Ankan directly by email or through the social links shown on the site.
 
 ## Commands
 
