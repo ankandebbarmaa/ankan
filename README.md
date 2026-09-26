@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Ankan Debbarma Portfolio
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/4d4c7388-3d53-40de-a0fc-330ba33ceb64
+Personal portfolio for Ankan Debbarma, built with React, TypeScript, Vite, and Tailwind CSS.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js 18+
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Start the development server:
    `npm run dev`
+3. Open `http://localhost:3000` in your browser.
+
+## Contact Form
+
+The contact and newsletter forms use Web3Forms. Copy `.env.example` to `.env` and add a `WEB3FORMS_ACCESS_KEY` if you want submissions delivered to your inbox. Without a key, the app still runs and reports that delivery is not configured.
+
+## Commands
+
+- `npm run dev` - start the development server
+- `npm run lint` - run the TypeScript checker
+- `npm run build` - create the production build
